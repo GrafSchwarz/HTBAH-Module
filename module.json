@@ -1,0 +1,12 @@
+{
+    "name": "how-to-be-a-hero",
+    "title": "HTBAH Module",
+    "description": "Something",
+    "authors": [
+      {
+        "name": "Nobu"
+      }
+    ],
+    "version": "1",
+    "minimumCoreVersion": "0.8.8"
+  }
